@@ -53,6 +53,7 @@ var ugcGetSign = callback => {
 };
 
 let petGlobal = {
+	verName: 'pzhsq',
   importXlsAlterStr: '请先选择物业公司，再选择表格文件',
   webName: '智慧社区',
   axiosTimeout: 10000,
